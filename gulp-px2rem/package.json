@@ -1,0 +1,17 @@
+{
+  "name": "gulp-px2rem",
+  "version": "1.0.0",
+  "description": "translate pixel 2 rem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gulp-util": "~3.0.6",
+    "postcss": "^5.0.8",
+    "through2": "~2.0.0"
+  },
+  "author": "foolishchow",
+  "license": "MIT"
+}
+ 
